@@ -11,3 +11,4 @@ Possible BTCECurrency values are:
 
      btc_usd btc_rur btc_eur ltc_btc ltc_rur nmc_btc usd_rur eur_usd
 
+![screenshot](https://raw.github.com/yndi/btc-e/master/screen.png "BTCe Notifier")
